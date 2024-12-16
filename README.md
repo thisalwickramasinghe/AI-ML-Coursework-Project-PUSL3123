@@ -20,7 +20,7 @@ To use the code in this repository, follow these steps:
    git clone https://github.com/thisalwickramasinghe/AI-ML-Coursework-Project-PUSL3123.git
 2. Navigate to the repository directory:
    ```sh
-   cd AI-ML-Coursework-Project-PUSL3123
+   cd AI-ML-Project-PUSL3123
 
 3. Ensure you have MATLAB installed on your system.
 
